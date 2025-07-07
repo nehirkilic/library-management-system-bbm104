@@ -1,0 +1,8 @@
+S,Liam Carter,1001,555-1234,Computer Science,Engineering,1
+S,Olivia Bennett,1002,555-2345,Electrical Engineering,Engineering,3
+S,Ethan Rivera,1003,555-3456,Biology,Science,2
+A,Dr. Ava Cooper,2001,555-4567,Physics,Science,Professor
+A,Dr. Noah Turner,2002,555-5678,Literature,Arts,Associate Professor
+A,Dr. Mia Flores,2003,555-6789,Mathematics,Science,Assistant Professor
+G,Logan Hayes,3001,555-7890,Writer
+G,Chloe Simmons,3002,555-8901,Researcher

@@ -1,0 +1,18 @@
+B,1001,To Kill a Mockingbird,Harper Lee,Classic Fiction,normal
+B,1002,Neuromancer,William Gibson,Science Fiction,normal
+B,1003,Jane Eyre,Charlotte Brontë,Romance,normal
+B,1004,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,normal
+B,1005,Thinking:Fast and Slow,Daniel Kahneman,Non-Fiction,reference
+B,1006,The Name of the Wind,Patrick Rothfuss,Fantasy,rare
+B,1007,The Da Vinci Code,Dan Brown,Mystery,limited
+B,1008,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,Philosophical Fiction,reference
+M,2001,Scientific American,Springer Nature,Science,normal
+M,2002,The New Yorker,Condé Nast,News,normal
+M,2003,Nature,Nature Publishing Group,Science,reference
+M,2004,Elle,Hearst Communications,Fashion,normal
+M,2005,Bloomberg Businessweek,Bloomberg L.P.,Economics,limited
+D,3001,Forrest Gump,Robert Zemeckis,Drama,142 min,normal
+D,3002,The Dark Knight,Christopher Nolan,Crime,175 min,normal
+D,3003,Interstellar,Christopher Nolan,Sci-Fi,148 min,limited
+D,3004,Reservoir Dogs,Quentin Tarantino,Crime,154 min,normal
+D,3005,Blade Runner,Ridley Scott,Sci-Fi,136 min,rare

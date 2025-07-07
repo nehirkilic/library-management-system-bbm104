@@ -1,0 +1,8 @@
+borrow,3002,2001,05/05/2025
+borrow,3002,1001,05/05/2025
+return,3002,2001
+borrow,3002,3005,05/05/2025
+borrow,3002,1007,05/05/2025
+borrow,3002,1008,05/05/2025
+displayUsers
+displayItems
