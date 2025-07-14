@@ -42,7 +42,6 @@ This system was designed to apply core object-oriented programming principles:
 │   ├── commands2.txt
 │   ├── ...
 │   └── commands9.txt
-├── out/                          # IDE-related compiled output (ignored via .gitignore)
 ├── src/
 │   ├── Main.java
 │   ├── LibraryManagementSystem.java
