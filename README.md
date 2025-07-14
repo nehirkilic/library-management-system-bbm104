@@ -60,8 +60,7 @@ This system was designed to apply core object-oriented programming principles:
 
 ## 📜 Sample Input / Output
 
-The following are shortened excerpts from example input and output files.  
-Output content may vary depending on the system date, as the program runs in real-time.
+The following are shortened excerpts from example input and output files.
 
 ### items.txt
 ```
