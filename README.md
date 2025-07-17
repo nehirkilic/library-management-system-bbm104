@@ -24,10 +24,10 @@ It simulates a real-world university library where users (Students, Academics, G
 
 This system was designed to apply core object-oriented programming principles:
 
-- ✅ **Encapsulation**
-- ✅ **Inheritance**
-- ✅ **Polymorphism**
-- ✅ **Modularity and Separation of Concerns**
+- **Encapsulation**
+- **Inheritance**
+- **Polymorphism**
+- **Modularity and Separation of Concerns**
 
 ---
 
